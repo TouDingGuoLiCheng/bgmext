@@ -1,0 +1,10 @@
+{
+  "custom_music_0": { "sounds": [ { "name": "bgmext:custom_music_0", "stream": true } ] },
+  "custom_music_1": { "sounds": [ { "name": "bgmext:custom_music_1", "stream": true } ] },
+  "custom_music_2": { "sounds": [ { "name": "bgmext:custom_music_2", "stream": true } ] },
+  "custom_music_3": { "sounds": [ { "name": "bgmext:custom_music_3", "stream": true } ] },
+  "custom_music_4": { "sounds": [ { "name": "bgmext:custom_music_4", "stream": true } ] },
+  "custom_music_5": { "sounds": [ { "name": "bgmext:custom_music_5", "stream": true } ] },
+  "custom_music_6": { "sounds": [ { "name": "bgmext:custom_music_6", "stream": true } ] },
+  "custom_music_7": { "sounds": [ { "name": "bgmext:custom_music_7", "stream": true } ] }
+}

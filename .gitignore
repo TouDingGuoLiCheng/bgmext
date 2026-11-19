@@ -1,0 +1,31 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Minecraft run
+run/
+logs/
+# Public export extras
+.scratch/
+.cursor/
+.superpowers/
+.worktrees/
+下一步的计划-*.md
+待办事项.md
+待修复.md
+*.log
+build-error.txt
+build_compile*.txt
+releases/*.jar

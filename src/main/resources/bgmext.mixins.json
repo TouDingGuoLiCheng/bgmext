@@ -1,0 +1,15 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "com.bgmext.mixin",
+    "compatibilityLevel": "JAVA_17",
+    "refmap": "bgmext.refmap.json",
+    "client": [
+        "MusicManagerMixin",
+        "SoundManagerMixin",
+        "SoundBufferLibraryMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}
